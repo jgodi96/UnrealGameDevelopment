@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/jgodi/OneDrive/Desktop/UnrealGames/ToonTanksProjectSetup_4.25 (1)/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks/.vscode": true,
+		"C:/Users/jgodi/OneDrive/Desktop/UnrealGames/ToonTanksProjectSetup_4.25 (1)/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks/Content": true,
+		"C:/Users/jgodi/OneDrive/Desktop/UnrealGames/ToonTanksProjectSetup_4.25 (1)/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks/DerivedDataCache": true,
+		"C:/Users/jgodi/OneDrive/Desktop/UnrealGames/ToonTanksProjectSetup_4.25 (1)/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks/Intermediate": true,
+		"C:/Users/jgodi/OneDrive/Desktop/UnrealGames/ToonTanksProjectSetup_4.25 (1)/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks/Saved": true
+	}
+}

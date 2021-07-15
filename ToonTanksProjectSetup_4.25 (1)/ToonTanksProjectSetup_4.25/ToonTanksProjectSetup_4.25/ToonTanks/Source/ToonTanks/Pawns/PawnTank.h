@@ -27,6 +27,8 @@ class TOONTANKS_API APawnTank : public APawnBase
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Movement",meta=(AllowPrivateAccess="true"))
 	float RotateSpeed = 100.0f;
 
+	APlayerController* PlayerControllerRef;
+
 	void CalculateMoveInput(float Value);
 	void CalculateRotateInput(float Value);
 
@@ -47,6 +49,7 @@ class TOONTANKS_API APawnTank : public APawnBase
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	virtual void HandleDestruction() override;
 
 	
 };
